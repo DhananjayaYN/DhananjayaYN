@@ -1,10 +1,10 @@
 # Hello, I'm Nimesh Dhananjaya! 👋
 
-Welcome to my GitHub profile. I'm currently studying for a BCS degree at the University of Ruhuna. I have experience in Python, Java, JavaScript, HTML, CSS, Flutter, and machine learning.
+Welcome to my GitHub profile. I'm currently studying for a BCS degree at the University of Ruhuna. I have experience in C, Python, Java, JavaScript, HTML, CSS, Flutter, and machine learning.
 
 ## Skills
 
-- Programming Languages: Python, Java, JavaScript
+- Programming Languages: C, Python, Java, JavaScript
 - Web Development: HTML, CSS
 - Mobile Development: Flutter
 - Machine Learning
