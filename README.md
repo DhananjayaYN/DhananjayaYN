@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Nimesh Dhananjaya! 👋
 
-<!--
-**DhananjayaYN/DhananjayaYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm currently studying for a BCS degree at the University of Ruhuna. I have experience in Python, Java, JavaScript, HTML, CSS, Flutter, and machine learning.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: Python, Java, JavaScript
+- Web Development: HTML, CSS
+- Mobile Development: Flutter
+- Machine Learning
+
+## Get in Touch
+
+- **LinkedIn:** [Nimesh Dhananjaya](https://www.linkedin.com/in/nimesh-dhananjaya-0747ba277)
+- **Email:** dhananjayanimesh17@gmail.com
+- **WhatsApp:** +94712520249
+
+Feel free to connect with me on LinkedIn, drop me an email, or reach out via WhatsApp. Let's collaborate and build something amazing together!
