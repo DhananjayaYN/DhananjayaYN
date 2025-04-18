@@ -60,4 +60,3 @@ I'm an enthusiastic software developer with a strong foundation in programming a
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
