@@ -1,18 +1,63 @@
-# Hello, I'm Nimesh Dhananjaya! 👋
 
-Welcome to my GitHub profile. I'm currently studying for a BCS degree at the University of Ruhuna. I have experience in C, Python, Java, JavaScript, HTML, CSS, Flutter, and machine learning.
+<h1 align="center">👋 Hello, I'm Nimesh Dhananjaya!</h1>
 
-## Skills
+<p align="center">
+  🎓 BCS Undergraduate at the University of Ruhuna <br>
+  💡 Passionate about Full Stack Development, Machine Learning, and Computer Vision <br>
+  🌟 Let's collaborate and build something amazing together!
+</p>
 
-- Programming Languages: C, Python, Java, JavaScript
-- Web Development: HTML, CSS
-- Mobile Development: Flutter
-- Machine Learning
+---
 
-## Get in Touch
+## 🚀 About Me
 
-- **LinkedIn:** [Nimesh Dhananjaya](https://www.linkedin.com/in/nimesh-dhananjaya-0747ba277)
-- **Email:** dhananjayanimesh17@gmail.com
-- **WhatsApp:** +94712520249
+I'm an enthusiastic software developer with a strong foundation in programming and a love for learning new technologies. My experience spans across building web and mobile applications, working with data-driven systems, and applying machine learning techniques in real-world scenarios.
 
-Feel free to connect with me on LinkedIn, drop me an email, or reach out via WhatsApp. Let's collaborate and build something amazing together!
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+- C, Python, Java, JavaScript, C#
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- Spring Boot
+
+### 🧠 Machine Learning & AI
+- Computer Vision (OpenCV, MediaPipe)
+- Data Preprocessing & Model Deployment
+
+### 🗄️ Databases
+- MySQL, PostgreSQL, MongoDB
+
+### 📱 Mobile Development
+- Flutter
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- Figma, Trello (UI/UX & Task Management)
+- Agile Methodology
+- Microservice Architecture
+
+---
+
+## 📫 Get in Touch
+
+- 💼 **LinkedIn**: [Nimesh Dhananjaya](https://www.linkedin.com/in/nimesh-dhananjaya-0747ba277)
+- 📧 **Email**: dhananjayanimesh17@gmail.com
+- 📱 **WhatsApp**: +94 71 252 0249
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhananjayaYN&show_icons=true&theme=radical" alt="Nimesh's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayaYN&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
+</p>
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
