@@ -27,7 +27,7 @@ I'm an enthusiastic software developer with a strong foundation in programming a
 
 ### 🧠 Machine Learning & AI
 - Computer Vision (OpenCV, MediaPipe)
-- Data Preprocessing & Model Deployment
+- Data Preprocessing & Model Development
 
 ### 🗄️ Databases
 - MySQL, PostgreSQL, MongoDB
