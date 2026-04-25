@@ -29,14 +29,28 @@ I'm an enthusiastic software developer with a strong foundation in programming a
 - Computer Vision (OpenCV, MediaPipe)
 - Data Preprocessing & Model Development
 
+### 📊 Data & Analytics
+- Data Processing & Data Visualization Concepts
+- OLAP & OLTP Database Systems
+- Apache Superset (Data Visualization)
+
 ### 🗄️ Databases
 - MySQL, PostgreSQL, MongoDB
+
+### ☁️ Cloud & DevOps
+- Docker (Containerization)
+- Azure Cloud
+  - Azure Functions
+  - Azure Blob Storage
+  - Azure Key Vault
+  - Azure Application Insights
 
 ### 📱 Mobile Development
 - Flutter
 
 ### 🧰 Tools & Platforms
-- Git & GitHub
+- Git, GitHub, Bitbucket
+- Jira (Project Management & Issue Tracking)
 - Figma, Trello (UI/UX & Task Management)
 - Agile Methodology
 - Microservice Architecture
