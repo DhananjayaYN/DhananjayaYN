@@ -24,6 +24,7 @@ I'm an enthusiastic software developer with a strong foundation in programming a
 - HTML, CSS, JavaScript
 - MERN Stack (MongoDB, Express.js, React, Node.js)
 - Spring Boot
+- dotnet core, blazor
 
 ### 🧠 Machine Learning & AI
 - Computer Vision (OpenCV, MediaPipe)
